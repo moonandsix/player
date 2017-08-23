@@ -1,3 +1,3 @@
 # player
 1
-演示地址https://moonandsix.github.io/recommend
+演示地址https://moonandsix.github.io/player/
